@@ -6,7 +6,7 @@
 2-3	no	_	_	I	_	_	_	_	_
 2	em	em	ADP	I	_	4	case	_	_
 3	o	o	DET	I	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
-4	governo	governo	NOUN	B	Gender=Masc|Number=Sing	1	nmod	_	_
+4	governo	governo	NOUN	I	Gender=Masc|Number=Sing	1	nmod	_	_
 
 # text = BRASÍLIA Pesquisa Datafolha publicada hoje revela um dado supreendente: recusando uma postura radical, a esmagadora maioria (77%) dos eleitores quer o PT participando do Governo Fernando Henrique Cardoso.
 # sent_id = CF1-3
