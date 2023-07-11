@@ -1,3 +1,4 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
 # newdoc_id = CF1
 # text = PT no governo
 # sent_id = CF1-1
